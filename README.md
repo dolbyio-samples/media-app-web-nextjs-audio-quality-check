@@ -1,5 +1,15 @@
 # Dolby.io Education Platform - Next.js Starter
 
+## Installation
+
+Run the following command to create a new project with this Starter:
+
+```bash
+yarn create next-app [project-name] -e https://github.com/dolbyio-samples/blog-nextjs-edu-platform-starter
+# or
+npx create-next-app [project-name] -e https://github.com/dolbyio-samples/blog-nextjs-edu-platform-starter
+```
+
 ## Getting Started
 
 First, run the development server:
