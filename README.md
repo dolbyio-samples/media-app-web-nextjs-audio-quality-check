@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/github/license/dolbyio-samples/blog-android-audio-recording-examples)](LICENSE)
 
 # Dolby.io Education Platform - Next.js Starter
-This repository demonstrates the integration of Dolby.io's APi into an educational video platform built with Next.js
+This repository demonstrates the integration of Dolby.io's API into an educational video platform built with Next.js
 
 ## Overview
 To build quality assurance into educational content, Next.js can be leveraged for integrating aspects such as video processing, content validation, test automation, and user engagements. This helps offer insightful and practical examples to help developers enhance the quality and reliability of their educational videos. 
