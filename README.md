@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/dolbyio-samples/blog-android-audio-recording-examples)](LICENSE)
+[![License](https://img.shields.io/github/license/dolbyio-samples/blog-nextjs-edu-platform-starter)](LICENSE)
 
 ![Blog Picture](https://dolby.io/wp-content/uploads/2021/09/How-to-Add-Quality-Assurance-to-Educational-Video-Production-with-Nextjs-1.jpg)
 
