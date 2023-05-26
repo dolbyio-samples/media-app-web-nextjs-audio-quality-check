@@ -16,7 +16,7 @@ To follow along with the tutorial, you will need:
 - An S3 bucket or other storage provider that contains educational videos
 - A [Dolby.io account](https://dashboard.dolby.io/signup/)
 
-Here we will be using the Media APIs, specifically the Diagnose API, therefore you would need [an API key](https://dolby.io/developers/media-processing/quick-start/analyzing-media#1-get-your-api-key). You receive 50GBs to start out for free, which should help you get started with this project. 
+Here we will be using the Media APIs, specifically the Diagnose API, therefore you would need [an API key](https://docs.dolby.io/media-apis/docs/quick-start-to-analyzing-media#1-get-your-api-token).
 
 ## Getting Started
 
