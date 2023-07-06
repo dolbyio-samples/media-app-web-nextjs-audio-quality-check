@@ -23,9 +23,9 @@ Here we will be using the Media APIs, specifically the Diagnose API, therefore y
 Run the following command to create a new project with this Starter:
 
 ```bash
-yarn create next-app [project-name] -e https://github.com/dolbyio-samples/blog-nextjs-edu-platform-starter
+yarn create next-app [project-name] -e https://github.com/dolbyio-samples/media-app-web-nextjs-audio-quality-check
 # or
-npx create-next-app [project-name] -e https://github.com/dolbyio-samples/blog-nextjs-edu-platform-starter
+npx create-next-app [project-name] -e https://github.com/dolbyio-samples/media-app-web-nextjs-audio-quality-check
 ```
 
 First, run the development server:
